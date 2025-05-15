@@ -1,0 +1,15 @@
+Final Classification:
+Label: queen present and newly accepted
+Probability: 38%
+
+Top Predictions:
+queen present and newly accepted: 38%
+queen not present: 12%
+Insect: 9%
+Bee, wasp, etc.: 9%
+Wild animals: 9%
+Animal: 8%
+Fly, housefly: 7%
+queen present and rejected: 7%
+Cricket: 1%
+queen present or original queen: 1%
